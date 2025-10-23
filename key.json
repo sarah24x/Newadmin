@@ -20,10 +20,10 @@
   },
   "users": [
     {
-      "username": "test_user",
-      "password": "test_pass",
-      "device_id": "8e3d64c8-3c99-44d5-947b-example00002",
-      "expiry_date_utc": "2024-11-01"
+      "username": "test56",
+      "password": "test23",
+      "device_id": "66a42a84-f7bc-44cd-8416-ed8b249b2a00",
+      "expiry_date_utc": "2025-10-24"
     },
     {
       "username": "user123",
